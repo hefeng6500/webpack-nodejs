@@ -13,3 +13,4 @@ csv-loader
 xml-loader
 html-webpack-plugin
 clean-webpack-plugin
+nodemon //用于nodejs服务的自动更新
